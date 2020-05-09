@@ -1,0 +1,8 @@
+#files
+wp-config.php
+*.log
+*.sql
+
+#directory
+node_modules/
+.idea/
